@@ -7,7 +7,6 @@ html,body{
     height: 100%;
     font-family: "Outfit", sans-serif;
 }
-
 header{
     width: 100%;
     margin: 0 auto;height: 100px;
@@ -16,23 +15,19 @@ header{
     align-items: center;
     justify-content: space-around;
 }
-
 nav a{
     padding: 0 20px;
     color: #80bc7d;
     text-decoration: none;
     font-size: 1.3em;
 }
-
 nav a:hover{
     color: #fda522;
     transition: 1s;
 }
-
 #logo{
     cursor: pointer;
 }
-
 .borda{
     border-left: 2px solid #80bc7d;
 
